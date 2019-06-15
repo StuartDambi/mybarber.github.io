@@ -1,0 +1,25 @@
+{
+  "name": "mybarberapp",
+  "version": "1.0.0",
+  "description": "This is a nodejs web application for ordering saloon services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StuartDambi/mybarber.github.io.git"
+  },
+  "keywords": [
+    "Saloon"
+  ],
+  "author": "StuartDambi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StuartDambi/mybarber.github.io/issues"
+  },
+  "homepage": "https://github.com/StuartDambi/mybarber.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
